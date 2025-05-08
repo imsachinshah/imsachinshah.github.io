@@ -2,6 +2,131 @@
   "closed": 0,
   "data": [
     {
+      "id": "PR_kwDONlYqh86IoxRp",
+      "title": "Update readme",
+      "url": "https://github.com/imsachinshah/one-command-setup/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52409946?u=67ec1c016a008336bd616a80d9bdc9b972ca1dd1&v=4",
+        "url": "https://github.com/imsachinshah",
+        "login": "imsachinshah"
+      },
+      "createdAt": "2025-01-22T14:30:44Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "one-command-setup",
+        "url": "https://github.com/imsachinshah/one-command-setup",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/52409946?u=67ec1c016a008336bd616a80d9bdc9b972ca1dd1&v=4",
+          "login": "imsachinshah",
+          "url": "https://github.com/imsachinshah"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDONlYqh86Iotm3",
+      "title": "Add python django one command setup with readme",
+      "url": "https://github.com/imsachinshah/one-command-setup/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52409946?u=67ec1c016a008336bd616a80d9bdc9b972ca1dd1&v=4",
+        "url": "https://github.com/imsachinshah",
+        "login": "imsachinshah"
+      },
+      "createdAt": "2025-01-22T14:23:47Z",
+      "number": 1,
+      "changedFiles": 2,
+      "additions": 202,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "one-command-setup",
+        "url": "https://github.com/imsachinshah/one-command-setup",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/52409946?u=67ec1c016a008336bd616a80d9bdc9b972ca1dd1&v=4",
+          "login": "imsachinshah",
+          "url": "https://github.com/imsachinshah"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMr12ac6DPCWT",
+      "title": "change active admin theme",
+      "url": "https://github.com/Rahulkush1/IotVerse/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52409946?u=67ec1c016a008336bd616a80d9bdc9b972ca1dd1&v=4",
+        "url": "https://github.com/imsachinshah",
+        "login": "imsachinshah"
+      },
+      "createdAt": "2024-11-26T19:23:41Z",
+      "number": 4,
+      "changedFiles": 4,
+      "additions": 20,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "IotVerse",
+        "url": "https://github.com/Rahulkush1/IotVerse",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=736c5cc819a1cb4463d159b6f66dc1eadae25a1c&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMr12ac584DH4",
+      "title": "add contact us feature",
+      "url": "https://github.com/Rahulkush1/IotVerse/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52409946?u=67ec1c016a008336bd616a80d9bdc9b972ca1dd1&v=4",
+        "url": "https://github.com/imsachinshah",
+        "login": "imsachinshah"
+      },
+      "createdAt": "2024-09-27T05:58:17Z",
+      "number": 2,
+      "changedFiles": 5,
+      "additions": 53,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "IotVerse",
+        "url": "https://github.com/Rahulkush1/IotVerse",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90745824?u=736c5cc819a1cb4463d159b6f66dc1eadae25a1c&v=4",
+          "login": "Rahulkush1",
+          "url": "https://github.com/Rahulkush1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLmlOYc5tKx-o",
+      "title": "add docs and YT channels",
+      "url": "https://github.com/imsachinshah/ruby-on-rails-resources/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52409946?u=67ec1c016a008336bd616a80d9bdc9b972ca1dd1&v=4",
+        "url": "https://github.com/imsachinshah",
+        "login": "imsachinshah"
+      },
+      "createdAt": "2024-04-19T12:51:57Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 15,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "ruby-on-rails-resources",
+        "url": "https://github.com/imsachinshah/ruby-on-rails-resources",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/52409946?u=67ec1c016a008336bd616a80d9bdc9b972ca1dd1&v=4",
+          "login": "imsachinshah",
+          "url": "https://github.com/imsachinshah"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOKm4gk85rhaH1",
       "title": "add Serializer",
       "url": "https://github.com/imsachinshah/friends-api/pull/1",
@@ -552,7 +677,7 @@
       }
     }
   ],
-  "merged": 22,
+  "merged": 27,
   "open": 0,
-  "totalCount": 22
+  "totalCount": 27
 }

@@ -580,6 +580,22 @@ const experience = {
       experiences: [
         {
           title: "Software Engineer",
+          company: "Bestpeers InfoSystem pvt ltd.",
+          company_url: "https://www.bestpeers.com/",
+          logo_path: "bestpeers_logo.png",
+          duration: "Jan 2025 - Present",
+          location: "Indore, Madhya Pradesh, India",
+          descriptions: [
+            "⚡ Developed and maintained backend systems for web applications and microservices with Rails",
+            "⚡ Designed and implemented RESTful APIs to facilitate communication between frontend and backend components.",
+            "⚡ Managed relational databases including MySQL, optimizing schema design and query performance.",
+            "⚡ Designed the Responsive Landing Pages with HTML, CSS, JavaScript",
+            "⚡ Used Test-Driven Development (TDD) by writing comprehensive unit tests and integration tests with RSpec.",
+          ],
+          color: "#000000",
+        },
+        {
+          title: "Software Engineer",
           company: "Witmates Technologies pvt ltd.",
           company_url: "https://www.witmates.com/",
           logo_path: "witmates_logo.png",
